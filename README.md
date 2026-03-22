@@ -54,10 +54,26 @@ The ligand Lithospermic acid was docked against multiple thyroid-related protein
 - Propylthiouracil → ~ -3.9 kcal/mol
 - Carbimazole → ~ -3.2 kcal/mol
 
-### Docking Visualization
+## 📊 Comparison of Binding Energies
 
+| Ligand | Target Protein | Binding Energy (kcal/mol) |
+|--------|--------------|--------------------------|
+| Lithospermic acid | 7UUY | -8.6 |
+| Lithospermic acid | 7XW5 | -8.2 |
+| Lithospermic acid | 6SCJ | -6.9 |
+| Methimazole | 7UUY | -4.5 |
+| Propylthiouracil | 7UUY | -3.9 |
+| Carbimazole | 7UUY | -3.2 |
+
+## 🔬 Docking Visualization
+
+### 7UUY – Lithospermic Acid
 ![7UUY](dock_7UUY.png)
+
+### 7XW5 – Lithospermic Acid
 ![7XW5](dock_7XW5.png)
+
+### 6SCJ – Lithospermic Acid
 ![6SCJ](dock_6SCJ.png)
 
 ## 🧪 Key Findings
@@ -74,6 +90,5 @@ The ligand Lithospermic acid was docked against multiple thyroid-related protein
 
 ## 📌 Conclusion
 The study demonstrates that phytoconstituents of *Lithospermum officinale*, particularly Lithospermic acid, exhibit promising anti-thyroid activity and may serve as potential candidates for future drug development.
-
 ## Author
 Harini R

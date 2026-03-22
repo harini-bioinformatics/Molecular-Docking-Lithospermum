@@ -54,6 +54,12 @@ The ligand Lithospermic acid was docked against multiple thyroid-related protein
 - Propylthiouracil → ~ -3.9 kcal/mol
 - Carbimazole → ~ -3.2 kcal/mol
 
+### Docking Visualization
+
+![7UUY](dock_7UUY.png)
+![7XW5](dock_7XW5.png)
+![6SCJ](dock_6SCJ.png)
+
 ## 🧪 Key Findings
 - Lithospermic acid showed stronger binding affinity compared to standard drugs
 - Best interaction observed with Thyroid Peroxidase (7UUY)

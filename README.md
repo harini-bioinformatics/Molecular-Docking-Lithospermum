@@ -43,6 +43,7 @@ The ligand Lithospermic acid was docked against multiple thyroid-related protein
 
 ### 4. Visualization
 - Visualized protein–ligand interactions using PyMOL
+- Binding affinity was evaluated based on docking score (kcal/mol), where more negative values indicate stronger interaction.
 
 ## 📊 Results
 

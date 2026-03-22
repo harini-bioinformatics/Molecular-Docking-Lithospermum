@@ -72,14 +72,17 @@ The ligand Lithospermic acid was docked against multiple thyroid-related protein
 
 ### 7UUY – Lithospermic Acid
 ![7UUY](dock_7UUY.png)
+
 *Binding interaction of Lithospermic acid with 7UUY (Thyroid peroxidase) showing stable ligand positioning within active site.*
 
 ### 7XW5 – Lithospermic Acid
 ![7XW5](dock_7XW5.png)
+
 *Binding interaction of Lithospermic acid with 7XW5 (Thyroid stimulating hormone receptor) showing stable ligand positioning within active site.*
 
 ### 6SCJ – Lithospermic Acid
 ![6SCJ](dock_6SCJ.png)
+
 *Binding interaction of Lithospermic acid with 6SCJ (Thyroglobulin) showing stable ligand positioning within active site.*
 
 

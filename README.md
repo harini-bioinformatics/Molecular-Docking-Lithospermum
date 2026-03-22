@@ -2,6 +2,8 @@
 Molecular docking analysis of plant-derived compounds using AutoDock Vina
 
 # Screening and Evaluation of Phytoconstituents of Lithospermum officinale for Thyroid Drug Targets
+## 🚀 Key Result 
+Lithospermic acid showed stronger binding affinity (-8.6 kcal/mol) compared to standard anti-thyroid drugs (~ -4 kcal/mol), indicating potential as a lead compound.
 
 ## 🔬 Project Highlights
 - Molecular docking analysis of plant-derived compound Lithospermic acid
